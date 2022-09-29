@@ -1,4 +1,4 @@
-ID,GENDER,SECTION,TREATMENTS,TEST1,TEST2,TIME
+id,gender,section,treatment,test1,test2,time
 1,female,C,trt1,65.4,48.4,20.6
 2,female,D,trt1,72.4,61.6,26.3
 3,female,A,trt1,73.8,52,20.1
